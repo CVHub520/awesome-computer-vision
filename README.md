@@ -1,10 +1,4 @@
 
-门头沟学院AI视觉实验室御用公众号 | 学术 | 科研 | 就业
- 
----
--->
-
-
 ## 关注我们
 <div align=center>
 <p>门头沟学院AI视觉实验室御用公众号 | 学术 | 科研 | 就业</p>
@@ -15,9 +9,6 @@
 ## 热门论文汇总与解读
 
 <br>
-<p align="left">
-  <a href="https://github.com/Charmve/computer-vision-in-action"><img src="/res/ui/workswith1.png" title="Works with L0CV" width="120"></a>
-</p>
 
 | 领域 | 性能 | 解读 | 源码 | 
 | :-- | :---| :---:| :---: |
