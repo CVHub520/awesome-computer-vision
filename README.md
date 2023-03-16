@@ -21,7 +21,6 @@
 
 ## CVHub AI Lab - <ins>CVHub</ins><sup><a href="公众号文章介绍">[?]</a></sup>
 
-<a href="website#关注我们" target="_blank"><img src="图片"></a>
 
 门头沟学院AI视觉实验室御用公众号 | 学术 | 科研 | 就业
  
