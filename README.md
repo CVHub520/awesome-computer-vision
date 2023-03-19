@@ -135,7 +135,7 @@ Please feel free to [pull requests](https://github.com/CVHub520/awesome-computer
 | Paper | Publication | Type | 性能 | 代码 |  解读 | 
 | :- | :---| :---:| :---: | :---: |    :---: |     
 |     |     |      |       |      |     |
-| ZoeDepth: Zero-shot Transfer by Combining Relative and Metric Depth | - | CT/ZSL/Mono/RD&MD |   NYU REL 0.075   |[GitHub![](https://img.shields.io/github/stars/isl-org/ZoeDepth?style=social)](https://github.com/isl-org/ZoeDepth) | [第一个结合相对和绝对深度的多模态单目深度估计网络](https://zhuanlan.zhihu.com/p/615166220)  |
+|  :fire: ZoeDepth: Zero-shot Transfer by Combining Relative and Metric Depth | - | CT/ZSL/Mono/RD&MD |   NYU REL 0.075   |[GitHub![](https://img.shields.io/github/stars/isl-org/ZoeDepth?style=social)](https://github.com/isl-org/ZoeDepth) | [第一个结合相对和绝对深度的多模态单目深度估计网络](https://zhuanlan.zhihu.com/p/615166220)  |
 | Lite-Mono: A Lightweight CNN and Transformer Architecture for Self-Supervised Monocular Depth Estimation | CVPR 2023 | CT/Self/Mono/RD |    KITTI REL 0.102   |[GitHub![](https://img.shields.io/github/stars/noahzn/Lite-Mono?style=social)](https://github.com/noahzn/Lite-Mono) | [一种新的轻量级自监督单目深度估计方法](https://zhuanlan.zhihu.com/p/614680720)  |
 
 
