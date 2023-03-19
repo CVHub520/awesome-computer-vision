@@ -1,3 +1,4 @@
+<link rel="stylesheet" type="text/css" href="./style.css">
 
 ## 关注我们
 <div align=center>
