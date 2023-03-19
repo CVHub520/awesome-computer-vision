@@ -28,9 +28,9 @@ Please feel free to [pull requests](https://github.com/CVHub520/awesome-computer
 
 - [Awesome Diffusion](#awesome-segmentation)
 
-- [Awesome Network Architectures And Techniques)](#awesome-segmentation)
+- [Awesome Network Architectures And Techniques](#awesome-segmentation)
 
-- [Awesome Optimization Methods)](#awesome-segmentation)
+- [Awesome Optimization Methods](#awesome-segmentation)
 
 # Awesome Segmentation
 
