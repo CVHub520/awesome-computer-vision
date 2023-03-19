@@ -54,11 +54,14 @@ Please feel free to [pull requests](https://github.com/CVHub520/awesome-computer
 |  | C | T | CT | R | G | Other |
 | 网络类型 | CNN | Transformer | CNN + Transformer | RNN |  GAN/Diffusion | GNN... |
 |  |  |  |  |  | | |
+|  |  |  |  |  | | |
 |  | Sup | UnSup | Self | Semi | Meta | Other |
 | 监督方式 |  Supervised Learning |  Unsupervised Learning | Self-Supervised Learning | Semi-Supervised Learning |  Meta Learning | Weakly-Supervised... |
 |  |  |  |  |  | | |
+|  |  |  |  |  | | |
 |  | SS | IS | Vid | Med | AD | Other |
 | 任务类型 | Semantic Segmentation | Instance Segmentation |   Video Segmentation  | Medical Segmentation |  Autonomous Driving Segmentation | Saliency Segmentation... |
+|  |  |  |  |  | | |
 |  |  |  |  |  | | |
 |  | MM | UHR | - | - | - | Other |
 |  其他特性 | MultiModal Learning |  Ultra-high Resolution | - | - | - | - |
@@ -68,10 +71,10 @@ Please feel free to [pull requests](https://github.com/CVHub520/awesome-computer
 | Paper | Publication | Type | 性能 | 代码 |  解读 | 
 | :- | :---| :---:| :---: | :---: |    :---: |     
 |     |     |      |       |      |     |
-| :fire::fire: Delivering Arbitrary-Modal Semantic Segmentation | CVPR 2023 | CT/Sup/SS/MM |   COCO:XXX   |[GitHub](https://github.com/jamycheung/DELIVER) | [基于编解码架构的强大语义分割基线，解锁多模态语义分割的正确姿势](https://zhuanlan.zhihu.com/p/613293738)  |
-| ISDNet: Integrating Shallow and Deep Networks for Efficient Ultra-high Resolution Segmentation | CVPR 2022 | C/Sup/SS/UHR |   COCO:XXX     | [GitHub](https://github.com/cedricgsh/ISDNet) | [探索超高分辨率图像分割的高效之道](https://zhuanlan.zhihu.com/p/611138087)  |
+| :fire::fire: Delivering Arbitrary-Modal Semantic Segmentation | CVPR 2023 | CT/Sup/SS/MM |   COCO:XXX   |[GitHub![](https://img.shields.io/github/stars/jamycheung/DELIVER?style=social)](https://github.com/jamycheung/DELIVER) | [基于编解码架构的强大语义分割基线，解锁多模态语义分割的正确姿势](https://zhuanlan.zhihu.com/p/613293738)  |
+| ISDNet: Integrating Shallow and Deep Networks for Efficient Ultra-high Resolution Segmentation | CVPR 2022 | C/Sup/SS/UHR |   COCO:XXX     | [GitHub![](https://img.shields.io/github/stars/cedricgsh/ISDNet?style=social)](https://github.com/cedricgsh/ISDNet) | [探索超高分辨率图像分割的高效之道](https://zhuanlan.zhihu.com/p/611138087)  |
 
-
+https://img.shields.io/github/stars/jamycheung/DELIVER?style=social
 
 ##  Blogs 
 - [语义分割大盘点](http://automl.chalearn.org/)
@@ -121,11 +124,14 @@ Please feel free to [pull requests](https://github.com/CVHub520/awesome-computer
 |  | C | T | CT | R | G | Other |
 | 网络类型 | CNN | Transformer | CNN + Transformer | RNN |  GAN/Diffusion | GNN... |
 |  |  |  |  |  | | |
+|  |  |  |  |  | | |
 |  | Sup | UnSup | Self | Semi | FSL | ZSL |
 | 监督方式 |  Supervised Learning |  Unsupervised Learning | Self-Supervised Learning | Semi-Supervised Learning |  Few-shot Learning | Zero-shot Learning |
 |  |  |  |  |  | | |
+|  |  |  |  |  | | |
 |  | Mono | Stereo | Match | Flow |  |  |
 | 任务类型 | Monocular Depth Estimation | Stereo Depth Estimation  |   Stereo Match  | Optical Flow Estimation |    |  |
+|  |  |  |  |  | | |
 |  |  |  |  |  | | |
 |  | Nt | RD | MD | RD&MD | Out | In |
 |  其他特性 | Nighttime |  Relative Depth | Metric Depth | Relative & Metric Depth |Outdoor Domain | Indoor Domain |
