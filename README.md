@@ -35,26 +35,22 @@ Please feel free to [pull requests](https://github.com/CVHub520/awesome-computer
 # Awesome Segmentation
 
 ## Articles And Interpretation
-
-| Type | C | T | CT | R | G | Other |
+| Type |  简称 |   |   |   |   |   |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|  |  |  |  |  | | |
+|  | C | T | CT | R | G | Other |
 | 网络类型 | CNN | Transformer | CNN + Transformer | RNN |  GAN/Diffusion | GNN... |
-
-
-| Type | Sup | UnSup | Self | Semi | Meta | Other |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 监督方式 |  Supervised Learning |  Unsupervised Learning | Self-Supervised Learning | Semi-Supervised Learning</ |  Meta Learning | Weakly-Supervised... |
-
-
-
-| Type | SS | IS | Vid | Med | AD | Other |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 任务 | Semantic | Instance |   Video  | Medical |  Autonomous Driving | Saliency... |
-
-
-| Type | MM | UHR | - | - | - | Other |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|  |  |  |  |  | | |
+|  | Sup | UnSup | Self | Semi | Meta | Other |
+| 监督方式 |  Supervised Learning |  Unsupervised Learning | Self-Supervised Learning | Semi-Supervised Learning |  Meta Learning | Weakly-Supervised... |
+|  |  |  |  |  | | |
+|  | SS | IS | Vid | Med | AD | Other |
+| 任务类型 | Semantic Segmentation | Instance Segmentation |   Video Segmentation  | Medical Segmentation |  Autonomous Driving Segmentation | Saliency Segmentation... |
+|  |  |  |  |  | | |
+|  | MM | UHR | - | - | - | Other |
 |  其他特性 | MultiModal Learning |  Ultra-high Resolution | - | - | - | - |
+
+
 
 
 
