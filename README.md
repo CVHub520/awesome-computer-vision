@@ -17,37 +17,37 @@ Please feel free to [pull requests](https://github.com/CVHub520/awesome-computer
 
 <font size=5><center><b> Table of Contents </b> </center></font>
 - [Awesome Classification](#awesome-segmentation)
-    - [Awesome Blogs](#awesome-segmentation-blogs)
-    - [Awesome Libraies](#awesome-segmentation-libraies)
-    - [Awesome Articles And Interpretation](#awesome-segmentation-articles-and-interpretation)
+    - [Blogs](#awesome-segmentation-blogs)
+    - [Libraies](#awesome-segmentation-libraies)
+    - [Articles And Interpretation](#awesome-segmentation-articles-and-interpretation)
 - [Awesome Segmentation](#awesome-segmentation)
-    - [Awesome Blogs](#awesome-segmentation-blogs)
-    - [Awesome Libraies](#awesome-segmentation-libraies)
-    - [Awesome Articles And Interpretation](#awesome-segmentation-articles-and-interpretation)
+    - [Blogs](#awesome-segmentation-blogs)
+    - [Libraies](#awesome-segmentation-libraies)
+    - [Articles And Interpretation](#awesome-segmentation-articles-and-interpretation)
 - [Awesome Detection](#awesome-segmentation)
-    - [Awesome Blogs](#awesome-segmentation-blogs)
-    - [Awesome Libraies](#awesome-segmentation-libraies)
-    - [Awesome Articles And Interpretation](#awesome-segmentation-articles-and-interpretation)
+    - [Blogs](#awesome-segmentation-blogs)
+    - [Libraies](#awesome-segmentation-libraies)
+    - [Articles And Interpretation](#awesome-segmentation-articles-and-interpretation)
 - [Awesome Low Level Vison](#awesome-segmentation)
-    - [Awesome Blogs](#awesome-segmentation-blogs)
-    - [Awesome Libraies](#awesome-segmentation-libraies)
-    - [Awesome Articles And Interpretation](#awesome-segmentation-articles-and-interpretation)
+    - [Blogs](#awesome-segmentation-blogs)
+    - [Libraies](#awesome-segmentation-libraies)
+    - [Articles And Interpretation](#awesome-segmentation-articles-and-interpretation)
 - [Awesome 3D Vision](#awesome-segmentation)
-    - [Awesome Blogs](#awesome-segmentation-blogs)
-    - [Awesome Libraies](#awesome-segmentation-libraies)
-    - [Awesome Articles And Interpretation](#awesome-segmentation-articles-and-interpretation)
+    - [Blogs](#awesome-segmentation-blogs)
+    - [Libraies](#awesome-segmentation-libraies)
+    - [Articles And Interpretation](#awesome-segmentation-articles-and-interpretation)
 - [Awesome Diffusion](#awesome-segmentation)
-    - [Awesome Blogs](#awesome-segmentation-blogs)
-    - [Awesome Libraies](#awesome-segmentation-libraies)
-    - [Awesome Articles And Interpretation](#awesome-segmentation-articles-and-interpretation)
+    - [Blogs](#awesome-segmentation-blogs)
+    - [Libraies](#awesome-segmentation-libraies)
+    - [Articles And Interpretation](#awesome-segmentation-articles-and-interpretation)
 - [Awesome Network Architectures And Techniques)](#awesome-segmentation)
-    - [Awesome Blogs](#awesome-segmentation-blogs)
-    - [Awesome Libraies](#awesome-segmentation-libraies)
-    - [Awesome Articles And Interpretation](#awesome-segmentation-articles-and-interpretation)
+    - [Blogs](#awesome-segmentation-blogs)
+    - [Libraies](#awesome-segmentation-libraies)
+    - [Articles And Interpretation](#awesome-segmentation-articles-and-interpretation)
 - [Awesome Optimization Methods)](#awesome-segmentation)
-    - [Awesome Blogs](#awesome-segmentation-blogs)
-    - [Awesome Libraies](#awesome-segmentation-libraies)
-    - [Awesome Articles And Interpretation](#awesome-segmentation-articles-and-interpretation)
+    - [Blogs](#awesome-segmentation-blogs)
+    - [Libraies](#awesome-segmentation-libraies)
+    - [Articles And Interpretation](#awesome-segmentation-articles-and-interpretation)
 
 # Awesome Segmentation
 ## Awesome Segmentation Blogs 
@@ -61,31 +61,38 @@ Please feel free to [pull requests](https://github.com/CVHub520/awesome-computer
 
 ## Awesome Segmentation Articles And Interpretation
 
-|      Type   |       C        |   T  |        CT    |      R         |       G       |    Other   |
-|:------------|:--------------:|:----------------------:|:-----------------------:|:----------------------:|:----------:|:----------:|
-| 网络类型 | CNN  | Transformer  | CNN + Transformer | RNN | GAN/Diffusion | GNN...   |
+
+| Type | C | T | CT | R | G | Other |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|  <div style="width: 85px"> 网络类型</div> | <div style="width: 85px"> CNN</div>|  <div style="width: 85px"> Transformer</div> |  <div style="width: 85px"> CNN + Transformer</div> |  <div style="width: 85px"> RNN</div> |  <div style="width: 85px"> GAN/Diffusion</div> |  <div style="width: 85px"> GNN...</div> |
+
+
+| Type | Sup | UnSup | Self | Semi | Meta | Other |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|  <div style="width: 85px"> 监督方式</div> | <div style="width: 85px"> Supervised Learning</div>|  <div style="width: 85px"> Unsupervised Learning</div> |  <div style="width: 85px"> Self-Supervised Learning</div> |  <div style="width: 85px"> Semi-Supervised Learning</div> |  <div style="width: 85px"> Meta Learning</div> |  <div style="width: 85px"> Weakly-Supervised...</div> |
 
 
 
-|      Type   |      Sup        |      UnSup  |           Self |           Semi            |        Meta             |    Other   |
-|:------------|:--------------:|:----------------------:|:-----------------------:|:----------------------:|:----------:|:----------:|
-| 监督方式 | Supervised Learning  | Unsupervised Learning  | Self-Supervised Learning | Semi-Supervised Learning | Weakly-Supervised...| Meta Learning...|
+| Type | SS | IS | Vid | Med | AD | Other |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|  <div style="width: 85px"> 任务</div> | <div style="width: 85px"> Semantic</div>|  <div style="width: 85px"> Instance</div> |  <div style="width: 85px"> Video</div> |  <div style="width: 85px"> Medical</div> |  <div style="width: 85px"> Autonomous Driving</div> |  <div style="width: 85px"> Saliency...</div> |
 
 
-|      Type   |       SS        |      IS |            Vid           |        Med              |    AD   |   Other   |
-|:------------|:--------------:|:----------------------:|:-----------------------:|:----------------------:|:----------:|:----------:|
-| 任务 |  Semantic  | Instance | Video  | Medical    | Autonomous Driving | other |
-
-|      Type   |       MM        |   UHR    |                       |                      |       |   Other   |
-|:------------|:--------------:|:----------------------:|:-----------------------:|:----------------------:|:----------:|:----------:|
-| 其他特征 |  MultiModal Learning  | Ultra-high Resolution |   |     |  |  |
+| Type | MM | UHR | - | - | - | Other |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|  <div style="width: 85px"> 其他特性</div> | <div style="width: 85px"> MultiModal Learning</div>|  <div style="width: 85px"> Ultra-high Resolution</div> |  <div style="width: 85px"> -</div> |  <div style="width: 85px"> -</div> |  <div style="width: 85px"> -</div> |  <div style="width: 85px"> -</div> |
 
 
-| Paper | Publication | Type | Code | Interpretation | 
-| :- | :---| :---:| :---: | :---: |   
-|     |     |      |       |      |
-| :fire::fire: Delivering Arbitrary-Modal Semantic Segmentation | CVPR 2023 | CT/Sup/SS/MM | [GitHub](https://github.com/jamycheung/DELIVER) | [知乎](https://zhuanlan.zhihu.com/p/613293738)  |
-| ISDNet: Integrating Shallow and Deep Networks for Efficient Ultra-high Resolution Segmentation | CVPR 2022 | C/Sup/SS/UHR | [GitHub](https://github.com/cedricgsh/ISDNet) | [知乎](https://zhuanlan.zhihu.com/p/611138087)  |
+
+
+
+
+
+| Paper | Publication | Type | Code | 性能 |  解读 | 
+| :- | :---| :---:| :---: | :---: |    :---: |     
+|     |     |      |       |      |     |
+| :fire::fire: Delivering Arbitrary-Modal Semantic Segmentation | CVPR 2023 | CT/Sup/SS/MM |   COCO:XXX   |[GitHub](https://github.com/jamycheung/DELIVER) | [基于编解码架构的强大语义分割基线，解锁多模态语义分割的正确姿势](https://zhuanlan.zhihu.com/p/613293738)  |
+| ISDNet: Integrating Shallow and Deep Networks for Efficient Ultra-high Resolution Segmentation | CVPR 2022 | C/Sup/SS/UHR |   COCO:XXX     | [GitHub](https://github.com/cedricgsh/ISDNet) | [探索超高分辨率图像分割的高效之道](https://zhuanlan.zhihu.com/p/611138087)  |
 
 
 
