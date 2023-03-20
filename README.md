@@ -51,7 +51,7 @@ Please feel free to [pull requests](https://github.com/CVHub520/awesome-computer
 | Type |  简称 |   |   |   |   |   |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  |  |  | | |
-|  | C | T | CT | R | G | Other |
+|  | CNN | Tran | CNN&Tran | RNN | GEN | Other |
 | 网络类型 | CNN | Transformer | CNN + Transformer | RNN |  GAN/Diffusion | GNN... |
 |  |  |  |  |  | | |
 |  |  |  |  |  | | |
@@ -59,11 +59,11 @@ Please feel free to [pull requests](https://github.com/CVHub520/awesome-computer
 | 监督方式 |  Supervised Learning |  Unsupervised Learning | Self-Supervised Learning | Semi-Supervised Learning |  Meta Learning | Weakly-Supervised... |
 |  |  |  |  |  | | |
 |  |  |  |  |  | | |
-|  | SS | IS | Vid | Med | AD | Other |
+|  | Semantic | Instance | Video | Medical | Aut | Other |
 | 任务类型 | Semantic Segmentation | Instance Segmentation |   Video Segmentation  | Medical Segmentation |  Autonomous Driving Segmentation | Saliency Segmentation... |
 |  |  |  |  |  | | |
 |  |  |  |  |  | | |
-|  | MM | UHR | - | - | - | Other |
+|  | MultiModal | UHRes | - | - | - | Other |
 |  其他特性 | MultiModal Learning |  Ultra-high Resolution | - | - | - | - |
 
 
@@ -71,8 +71,8 @@ Please feel free to [pull requests](https://github.com/CVHub520/awesome-computer
 | Paper | Publication | Type | 性能 | 代码 |  解读 | 
 | :- | :---| :---:| :---: | :---: |    :---: |     
 |     |     |      |       |      |     |
-| :fire::fire: Delivering Arbitrary-Modal Semantic Segmentation | CVPR 2023 | CT/Sup/SS/MM |   COCO:XXX   |[GitHub![](https://img.shields.io/github/stars/jamycheung/DELIVER?style=social)](https://github.com/jamycheung/DELIVER) | [基于编解码架构的强大语义分割基线，解锁多模态语义分割的正确姿势](https://zhuanlan.zhihu.com/p/613293738)  |
-| ISDNet: Integrating Shallow and Deep Networks for Efficient Ultra-high Resolution Segmentation | CVPR 2022 | C/Sup/SS/UHR |   COCO:XXX     | [GitHub![](https://img.shields.io/github/stars/cedricgsh/ISDNet?style=social)](https://github.com/cedricgsh/ISDNet) | [探索超高分辨率图像分割的高效之道](https://zhuanlan.zhihu.com/p/611138087)  |
+| :fire::fire: Delivering Arbitrary-Modal Semantic Segmentation | CVPR 2023 | __`CNN&Tran`__ __`Sup`__  __`Semantic`__  __`MultiModal`__  |   COCO:XXX   |[GitHub![](https://img.shields.io/github/stars/jamycheung/DELIVER?style=social)](https://github.com/jamycheung/DELIVER) | [基于编解码架构的强大语义分割基线，解锁多模态语义分割的正确姿势](https://zhuanlan.zhihu.com/p/613293738)  |
+| ISDNet: Integrating Shallow and Deep Networks for Efficient Ultra-high Resolution Segmentation | CVPR 2022 | __`CNN`__ __`Sup`__  __`Semantic`__  __`UHRes`__ |   COCO:XXX     | [GitHub![](https://img.shields.io/github/stars/cedricgsh/ISDNet?style=social)](https://github.com/cedricgsh/ISDNet) | [探索超高分辨率图像分割的高效之道](https://zhuanlan.zhihu.com/p/611138087)  |
 
 https://img.shields.io/github/stars/jamycheung/DELIVER?style=social
 
@@ -121,7 +121,7 @@ https://img.shields.io/github/stars/jamycheung/DELIVER?style=social
 | Type |  简称 |   |   |   |   |   |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  |  |  |  |  | | |
-|  | C | T | CT | R | G | Other |
+|  | CNN | Tran | CNN&Tran | RNN | GEN | Other |
 | 网络类型 | CNN | Transformer | CNN + Transformer | RNN |  GAN/Diffusion | GNN... |
 |  |  |  |  |  | | |
 |  |  |  |  |  | | |
@@ -133,7 +133,7 @@ https://img.shields.io/github/stars/jamycheung/DELIVER?style=social
 | 任务类型 | Monocular Depth Estimation | Stereo Depth Estimation  |   Stereo Match  | Optical Flow Estimation |    |  |
 |  |  |  |  |  | | |
 |  |  |  |  |  | | |
-|  | Nt | RD | MD | RD&MD | Out | In |
+|  | Night | RD | MD | RD&MD | Out | In |
 |  其他特性 | Nighttime |  Relative Depth | Metric Depth | Relative & Metric Depth |Outdoor Domain | Indoor Domain |
 
 
@@ -141,8 +141,8 @@ https://img.shields.io/github/stars/jamycheung/DELIVER?style=social
 | Paper | Publication | Type | 性能 | 代码 |  解读 | 
 | :- | :---| :---:| :---: | :---: |    :---: |     
 |     |     |      |       |      |     |
-|  :fire: ZoeDepth: Zero-shot Transfer by Combining Relative and Metric Depth | - | CT/ZSL/Mono/RD&MD |   NYU REL 0.075   |[GitHub![](https://img.shields.io/github/stars/isl-org/ZoeDepth?style=social)](https://github.com/isl-org/ZoeDepth) | [第一个结合相对和绝对深度的多模态单目深度估计网络](https://zhuanlan.zhihu.com/p/615166220)  |
-| Lite-Mono: A Lightweight CNN and Transformer Architecture for Self-Supervised Monocular Depth Estimation | CVPR 2023 | CT/Self/Mono/RD |    KITTI REL 0.102   |[GitHub![](https://img.shields.io/github/stars/noahzn/Lite-Mono?style=social)](https://github.com/noahzn/Lite-Mono) | [一种新的轻量级自监督单目深度估计方法](https://zhuanlan.zhihu.com/p/614680720)  |
+|  :fire: ZoeDepth: Zero-shot Transfer by Combining Relative and Metric Depth | - | __`CT`__ __`ZSL`__  __`Mono`__  __`RD&MD`__ |   NYU REL 0.075   |[GitHub![](https://img.shields.io/github/stars/isl-org/ZoeDepth?style=social)](https://github.com/isl-org/ZoeDepth) | [第一个结合相对和绝对深度的多模态单目深度估计网络](https://zhuanlan.zhihu.com/p/615166220)  |
+| Lite-Mono: A Lightweight CNN and Transformer Architecture for Self-Supervised Monocular Depth Estimation | CVPR 2023 | __`CT`__ __`Self`__  __`Mono`__  __`RD`__  |    KITTI REL 0.102   |[GitHub![](https://img.shields.io/github/stars/noahzn/Lite-Mono?style=social)](https://github.com/noahzn/Lite-Mono) | [一种新的轻量级自监督单目深度估计方法](https://zhuanlan.zhihu.com/p/614680720)  |
 
 
 ## Blogs 
