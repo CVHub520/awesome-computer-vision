@@ -70,11 +70,10 @@ Please feel free to [pull requests](https://github.com/CVHub520/awesome-computer
 
 | Paper | Publication | Type | 性能 | 代码 |  解读 | 
 | :- | :---| :---:| :---: | :---: |    :---: |     
-|     |     |      |       |      |     |
 | :fire::fire: Delivering Arbitrary-Modal Semantic Segmentation | CVPR 2023 | __`CNN&Tran`__ __`Sup`__  __`Semantic`__  __`MultiModal`__  |   COCO:XXX   |[GitHub![](https://img.shields.io/github/stars/jamycheung/DELIVER?style=social)](https://github.com/jamycheung/DELIVER) | [基于编解码架构的强大语义分割基线，解锁多模态语义分割的正确姿势](https://zhuanlan.zhihu.com/p/613293738)  |
 | ISDNet: Integrating Shallow and Deep Networks for Efficient Ultra-high Resolution Segmentation | CVPR 2022 | __`CNN`__ __`Sup`__  __`Semantic`__  __`UH-Res`__ |   COCO:XXX     | [GitHub![](https://img.shields.io/github/stars/cedricgsh/ISDNet?style=social)](https://github.com/cedricgsh/ISDNet) | [探索超高分辨率图像分割的高效之道](https://zhuanlan.zhihu.com/p/611138087)  |
 
-https://img.shields.io/github/stars/jamycheung/DELIVER?style=social
+
 
 ##  Blogs 
 - [语义分割大盘点](http://automl.chalearn.org/)
@@ -140,7 +139,6 @@ https://img.shields.io/github/stars/jamycheung/DELIVER?style=social
 
 | Paper | Publication | Type | 性能 | 代码 |  解读 | 
 | :- | :---| :---:| :---: | :---: |    :---: |     
-|     |     |      |       |      |     |
 |  :fire: ZoeDepth: Zero-shot Transfer by Combining Relative and Metric Depth | - | __`CNN&Tran`__ __`ZSL`__  __`Mono`__  __`Rel&Met`__ |   NYU REL 0.075   |[GitHub![](https://img.shields.io/github/stars/isl-org/ZoeDepth?style=social)](https://github.com/isl-org/ZoeDepth) | [第一个结合相对和绝对深度的多模态单目深度估计网络](https://zhuanlan.zhihu.com/p/615166220)  |
 | Lite-Mono: A Lightweight CNN and Transformer Architecture for Self-Supervised Monocular Depth Estimation | CVPR 2023 | __`CNN&Tran`__ __`Self`__  __`Mono`__  __`Rel`__  |    KITTI REL 0.102   |[GitHub![](https://img.shields.io/github/stars/noahzn/Lite-Mono?style=social)](https://github.com/noahzn/Lite-Mono) | [一种新的轻量级自监督单目深度估计方法](https://zhuanlan.zhihu.com/p/614680720)  |
 
